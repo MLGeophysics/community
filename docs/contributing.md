@@ -7,7 +7,7 @@ Here is a guide on how to contribute your content.
 
 ## On GitHub
 
-We have set up this website to be automatically generated and deployed via ReadTheDocs
+We have set up this website to be automatically generated and deployed via Travis-CI
 so anyone with write privileges can contribute content and have the website immediately
 reflect their contributions!
 
@@ -16,7 +16,7 @@ repository and navigate to the `docs` directory. From there find the appropriate
 for your contribution and create a new file. Want to create a new section
 (a new tab on the menu bar)? Then simply make a new directory in the docs directory.
 
-Add your content in markdown, commit your changes, and wait a few minutes for ReadTheDocs to deploy the website.
+Add your content in markdown, commit your changes, and wait a few minutes for Travis-CI to deploy the website.
 
 
 ## On Your Own Machine
