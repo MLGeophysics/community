@@ -12,11 +12,24 @@ so anyone with write privileges can contribute content and have the website imme
 reflect their contributions!
 
 To get started, go to the [**MLGeophysics/Community**](https://github.com/MLGeophysics/Community)
-repository and navigate to the `docs` directory. From there find the appropriate folder
-for your contribution and create a new file. Want to create a new section
-(a new tab on the menu bar)? Then simply make a new directory in the docs directory.
+repository and navigate to the `docs` directory.
 
-Add your content in markdown, commit your changes, and wait a few minutes for Travis-CI to deploy the website.
+![MLGeophysics/Community](img/github-repo.png)
+
+From there find the appropriate folder for your contribution and create a new file.
+Want to create a new section (a new tab on the menu bar)? Then simply make a new directory in the docs directory.
+
+![newfile](img/create-new.png)
+
+
+Add your content in markdown and preview the page before you finish.
+
+![compose](img/compose-file.png)
+
+
+Finally commit your changes and wait a few minutes for Travis-CI to deploy the website.
+
+![commit](img/commit.png)
 
 
 ## On Your Own Machine
