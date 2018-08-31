@@ -18,7 +18,3 @@ Join [**MLGeophysics on Slack**](http://mlgeophysics.slack.com)!
     - **Overview:** An introduction to the MLGeophysics group with details on how to contribute.
     - **Minutes:** Pages for the minutes from our weekly meetings.
     - **Resources:** A conglomerate of resources we'd like to share.
-
-
-
--------
