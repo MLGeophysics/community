@@ -4,7 +4,7 @@ Welcome to the wiki for Machine Learning in Geophysics. This site is maintained 
 group of researches at the Colorado School of Mines interested in applying
 machine learning to geophysical investigations.
 
-Join [MLGeophysics on Slack](http://mlgeophysics.slack.com)!
+Join [**MLGeophysics on Slack**](http://mlgeophysics.slack.com)!
 
 !!! tip "How to explore this website"
     *On a Desktop:* Currently, there are three main sections to this website shown
