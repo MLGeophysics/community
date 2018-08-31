@@ -1,0 +1,26 @@
+language: python
+os:
+- linux
+python:
+- 3.6
+sudo: false
+install:
+- pip install -r requirements.txt
+script:
+- mkdocs build
+notifications:
+  email:
+    recipients:
+    - banesullivan@gmail.com
+    on_success: never
+    on_failure: never
+after_success:
+- git config user.name "Bane Sullivan";
+- git config user.email "banesullivan@gmail.com";
+- git remote add gh-token "https://${GH_TOKEN}@github.com/MLGeophysics/Community.git";
+- git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
+- pip install -r requirements.txt
+- mkdocs gh-deploy -v --clean --remote-name gh-token;
+before_install:
+- openssl aes-256-cbc -K $encrypted_d023b0eee833_key -iv $encrypted_d023b0eee833_iv
+  -in github_deploy_key.enc -out github_deploy_key -d
