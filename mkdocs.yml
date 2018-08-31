@@ -1,0 +1,54 @@
+site_name: ML Geophysics
+site_author: Bane Sullivan
+site_description: " "
+repo_url: https://github.com/MLGeophysics/
+repo_name: ML Geophysics on GitHub
+#site_url: http://pvgeo.org/
+edit_uri: ""
+copyright: Copyright &copy 2017-2018, <a href="http://banesullivan.com">Bane Sullivan</a>
+
+# google_analytics:
+#   - ''
+#   - 'auto'
+
+extra:
+  disqus: 'mlgeophysics'
+  social: # check https://fontawesome.com/icons?d=gallery for more icons
+    - type: 'slack'
+      link: 'http://mlgeophysics.slack.com'
+    - type: 'github'
+      link: 'https://github.com/MLGeophysics'
+
+theme:
+    name: material
+    feature:
+        tabs: true
+    palette:
+        primary: 'green'
+        accent: 'red'
+    custom_dir: custom_theme
+
+extra_css:
+    - stylesheets/extra.css
+
+
+markdown_extensions:
+    - smarty
+    - toc:
+        permalink: true
+    - admonition
+    - codehilite:
+        #linenums: true
+        guess_lang: true
+    - meta # see this page: https://squidfunk.github.io/mkdocs-material/extensions/metadata/
+    - footnotes # see this page: https://squidfunk.github.io/mkdocs-material/extensions/footnotes/
+    - pymdownx.b64 # local images
+    - pymdownx.superfences # code snippets
+    - pymdownx.inlinehilite #example: import the NumPy module by `#!py import numpy`
+    - pymdownx.caret # ability to add exponents with caret: a^3
+    - pymdownx.details # collapsible widgets
+    - pymdownx.tasklist:
+        custom_checkbox: true
+
+plugins:
+    - search
