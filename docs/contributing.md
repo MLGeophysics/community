@@ -3,7 +3,7 @@
 Here is a guide on how to contribute your content.
 
 !!! tip "Working in Markdown"
-    [**Here**](https://guides.github.com/features/mastering-markdown/) are some tips for writing documentation in Markdown and [**here**]() is the guid for `mkdocs-material` markdown specific to this website format.
+    [**Here**](https://guides.github.com/features/mastering-markdown/) are some tips for writing documentation in Markdown and [**here**](https://squidfunk.github.io/mkdocs-material/) is the guid for `mkdocs-material` markdown specific to this website format.
 
 ## On GitHub
 
