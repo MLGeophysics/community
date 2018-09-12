@@ -8,4 +8,4 @@ in applying machine learning to geophysical investigations.
 
 Join [**MLGeophysics on Slack**](http://mlgeophysics.slack.com)!
 
-Head over to [**the website**](https://mlgeophysics.github.io/Community/) to learn more!
+Head over to [**the website**](https://mlgeophysics.github.io/community/) to learn more!
