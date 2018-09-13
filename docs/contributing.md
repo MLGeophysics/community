@@ -34,7 +34,7 @@ Finally commit your changes and wait a few minutes for Travis-CI to deploy the w
 
 ## On Your Own Machine
 
-First, clone the [**MLGeophysics/Community**](https://github.com/MLGeophysics/Community) repository:
+First, clone the [**MLGeophysics/Community**](https://github.com/MLGeophysics/community) repository:
 
 ```bash
 $ git clone https://github.com/MLGeophysics/Community.git
