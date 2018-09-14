@@ -17,7 +17,7 @@ notifications:
 
 after_success:
     # Set configuration for repository and deploy documentation
-    - REMOTE="https://${GH_TOKEN}@github.com/MLGeophysics/community"
+    - REMOTE="https://${GH_TOKEN}@github.com/MLGeophysics/mlgeophysics.github.io"
     - git config --global user.name "${GH_NAME}"
     - git config --global user.email "${GH_EMAIL}"
     - git remote set-url origin ${REMOTE}
