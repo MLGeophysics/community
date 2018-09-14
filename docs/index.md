@@ -1,6 +1,6 @@
 # Welcome!
 
-[![Build Status](https://travis-ci.org/MLGeophysics/mlgeophysics.github.io.svg?branch=master)](https://travis-ci.org/MLGeophysics/mlgeophysics.github.io)
+[![Build Status](https://travis-ci.org/MLGeophysics/community.svg?branch=master)](https://travis-ci.org/MLGeophysics/community)
 
 Welcome to the wiki for Machine Learning in Geophysics. This site is maintained by a
 group of researchers at the Colorado School of Mines interested in applying
