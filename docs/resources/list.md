@@ -2,6 +2,13 @@
 
 - [TensorFlow](https://www.tensorflow.org)
 
+## Tutorials
+
+- [Quick videos covering basic ML algorithms](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+
+- [Variational Autoencoders from a probabilistic perspective](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+
+- [Convolutional Neural Networks](http://cs231n.github.io)
 
 ## Papers
 
