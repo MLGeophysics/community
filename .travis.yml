@@ -9,6 +9,7 @@ install:
 script:
     - mkdocs build
 notifications:
+  slack: minesgeophysics:9oZPwGI5ChYtJpCmqCvGZq6Q
   email:
     recipients:
     - banesullivan@gmail.com
