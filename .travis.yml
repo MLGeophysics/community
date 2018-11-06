@@ -9,6 +9,11 @@ install:
 script:
     - mkdocs build
 notifications:
+  slack:
+    on_success: change
+    on_failure: change
+    rooms:
+      - minesgeophysics:9oZPwGI5ChYtJpCmqCvGZq6Q
   email:
     recipients:
     - banesullivan@gmail.com
