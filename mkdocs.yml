@@ -33,6 +33,8 @@ extra_css:
 
 
 markdown_extensions:
+    # USE: python -m mkdocs <command>
+    - notebook_viewer # Make sure this directory is in pyhton path when building docs
     - smarty
     - toc:
         permalink: true

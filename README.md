@@ -7,3 +7,12 @@ is maintained by a group of researchers at the Colorado School of Mines interest
 in applying machine learning to geophysical investigations.
 
 Head over to [**the website**](https://mlgeophysics.github.io/community) to learn more!
+
+
+To serve the website locally, use the command:
+
+```sh
+$ python -m mkdocs serve
+```
+
+(We do this because we have custom plugins that needed to be loaded from the current working directory)
