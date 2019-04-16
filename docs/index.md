@@ -18,4 +18,5 @@ machine learning to geophysical investigations.
 
     - **Welcome!:** An introduction to the MLGeophysics group with details on how to contribute.
     - **Minutes:** Pages for the minutes from our weekly meetings.
+    - **Projects:** Projects we've worked on as a group.
     - **Resources:** A conglomerate of resources we'd like to share.
